@@ -1,0 +1,39 @@
+[submodule "STUDENTS/Arnault/P2"]
+	path = STUDENTS/Arnault/P2
+	url = https://github.com/NGOUASSA/Project_2_New2
+[submodule "STUDENTS/Arnault/P3"]
+	path = STUDENTS/Arnault/P3
+	url = https://github.com/NGOUASSA/Projet_3
+[submodule "STUDENTS/Nnena/P2"]
+	path = STUDENTS/Nnena/P2
+	url = git@github.com:wea2ne/OSAROKIONnena_2_25032021.git
+[submodule "STUDENTS/Nnena/P3"]
+	path = STUDENTS/Nnena/P3
+	url = git@github.com:wea2ne/NnenaOSAROKIO_3_04052021.git
+[submodule "STUDENTS/Nnena/P4"]
+	path = STUDENTS/Nnena/P4
+	url = git@github.com:wea2ne/NnenaOsarokio_4_24062021.git
+[submodule "STUDENTS/Nnena/P5"]
+	path = STUDENTS/Nnena/P5
+	url = git@github.com:wea2ne/NnenaOsarokio_5_240721.git
+[submodule "STUDENTS/Meline/P2"]
+	path = STUDENTS/Meline/P2
+	url = git@github.com:MelineM92/MelineMorchipont_2_30032021.git
+[submodule "STUDENTS/Meline/P3"]
+	path = STUDENTS/Meline/P3
+	url = git@github.com:MelineM92/P3_Morchipont_Meline.git
+[submodule "STUDENTS/Anthony/P2"]
+	path = STUDENTS/Anthony/P2
+	url = git@github.com:lartduparadox/projet-2-final.git
+[submodule "STUDENTS/Anthony/P3"]
+	path = STUDENTS/Anthony/P3
+	url = git@github.com:lartduparadox/projet_3.git
+[submodule "P2"]
+	path = P2
+	url = git@github.com:achicyr/OC__frontend__P2.git
+[submodule "P3"]
+	path = P3
+	url = git@github.com:achicyr/OC__frontend__P3.git
+[submodule "P4"]
+	path = P4
+	url = git@github.com:achicyr/OC__frontend__P4.git
