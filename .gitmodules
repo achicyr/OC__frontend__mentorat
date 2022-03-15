@@ -3,7 +3,7 @@
 	url = https://github.com/NGOUASSA/Project_2_New2
 [submodule "STUDENTS/Arnault/P3"]
 	path = STUDENTS/Arnault/P3
-	url = https://github.com/NGOUASSA/Projet_3
+	url = git@github.com:NGOUASSA/ArnaultNgouassa_3_05032022.git
 [submodule "STUDENTS/Nnena/P2"]
 	path = STUDENTS/Nnena/P2
 	url = git@github.com:wea2ne/OSAROKIONnena_2_25032021.git
@@ -25,9 +25,6 @@
 [submodule "STUDENTS/Anthony/P2"]
 	path = STUDENTS/Anthony/P2
 	url = git@github.com:lartduparadox/projet-2-final.git
-[submodule "STUDENTS/Anthony/P3"]
-	path = STUDENTS/Anthony/P3
-	url = git@github.com:lartduparadox/projet_3.git
 [submodule "P2"]
 	path = P2
 	url = git@github.com:achicyr/OC__frontend__P2.git
@@ -37,3 +34,18 @@
 [submodule "P4"]
 	path = P4
 	url = git@github.com:achicyr/OC__frontend__P4.git
+[submodule "STUDENTS/Anthony/projet.3_2"]
+	path = STUDENTS/Anthony/projet.3_2
+	url = git@github.com:lartduparadox/projet.3_2.git
+[submodule "STUDENTS/Anthony/P3"]
+	path = STUDENTS/Anthony/P3
+	url = git@github.com:lartduparadox/projet.3_2.git
+[submodule "STUDENTS/Arnault/P4"]
+	path = STUDENTS/Arnault/P4
+	url = git@github.com:NGOUASSA/Projet_4.git
+[submodule "STUDENTS/____samples____/P4/JeanneS.Dev_4_21102020"]
+	path = STUDENTS/____samples____/P4/JeanneS.Dev_4_21102020
+	url = git@github.com:jeanne-s-dev/JeanneS.Dev_4_21102020.git
+[submodule "STUDENTS/____samples____/P4/OC---Developpeur-web---Projet-4"]
+	path = STUDENTS/____samples____/P4/OC---Developpeur-web---Projet-4
+	url = git@github.com:Guetso/OC---Developpeur-web---Projet-4.git
