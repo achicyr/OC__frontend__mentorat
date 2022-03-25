@@ -49,3 +49,6 @@
 [submodule "STUDENTS/____samples____/P4/OC---Developpeur-web---Projet-4"]
 	path = STUDENTS/____samples____/P4/OC---Developpeur-web---Projet-4
 	url = git@github.com:Guetso/OC---Developpeur-web---Projet-4.git
+[submodule "OC__frontend"]
+	path = OC__frontend
+	url = git@github.com:achicyr/OC__frontend.git
